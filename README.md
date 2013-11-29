@@ -7,7 +7,7 @@ This tiny java program generate all size of icon & splash png files those are re
 Only two icon files are needed(one for iOS7, another for iOS6 or lower), or just one icon file for all version of iOS.
 And better prepare a square image (1536 x 1536 pixels) for splash screen. The image will be put in the center of each size of splash screen with the color of upper-left point as a background-color.
 
-<img src="https://github.com/gootara-org/ios-image-util/blob/master/docs/screen.png?raw=true" />
+<img src="https://github.com/f0gg/ios-image-util/tree/master/docs/screen.png?raw=true" />
 
 Generate files below.
 <table>
