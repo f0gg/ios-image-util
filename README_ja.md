@@ -9,7 +9,7 @@ OVERVIEW
 
 何か問題がある場合や仕様にご不満の場合は、自由に編集してください。コンパイルをしたくない場合は、起動可能なjarファイルをダウンロードして使ってください。
 
-<img src="https://github.com/gootara-org/ios-image-util/blob/master/ios-image-util/docs/screen_ja.png?raw=true" />
+<img src="https://github.com/gootara-org/ios-image-util/blob/master/docs/screen.png?raw=true" />
 
 以下、出力されるファイル一覧。
 <table>
